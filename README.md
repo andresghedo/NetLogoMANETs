@@ -1,1 +1,2 @@
 # NetLogoMANETs
+A simple implementation of Mobile AdHoc Networks for NetLog software (https://ccl.northwestern.edu/netlogo/), in particular the study of Giant Component, Connectivity, Degree Distributions. In the repository, there's also a research paper ("Relazione") that you can read to undestand the experiments and implementation. This project was developed  for the course of CS (Complex Systems) @ Alma Mater Studiorum - UniBo - Università degli studi di Bologna.
